@@ -1,0 +1,23 @@
+h1 {text-decoration: underline; text-align: center;}
+
+button {background-color: rgb(210, 32, 47);}
+button a {color: black;}
+
+p {font-size: 24px; color: rgb(115, 0, 10);}
+
+.center {text-align: center;}
+
+div button {text-align: center;}
+
+.button {
+    background-color: rgb(115, 0, 10);
+    border: none;
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration: underline;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    color: black;
+  }

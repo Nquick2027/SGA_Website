@@ -1,0 +1,25 @@
+html {background-color: lightgray;}
+
+main {background-color: lightgray;}
+
+header {background-color: black;}
+
+.logo {width: 100px; height: 100px;}
+
+div p.header {color: white; font-size: 30px;}
+
+ul {font-size: large;}
+
+nav {background-color: rgb(115,0,10);}
+nav ul {list-style: none; text-align: center; padding-top: 5px; padding-bottom: 5px;}
+nav li {display: inline-block;}
+nav a {color:white; text-transform: capitalize;}
+
+button {background-color: rgb(210, 32, 47);}
+
+footer {background-color: rgb(251, 243, 232);}
+footer h1 {text-align: left;}
+
+footer form {text-align: right;}
+
+div.right {text-align: right;}
